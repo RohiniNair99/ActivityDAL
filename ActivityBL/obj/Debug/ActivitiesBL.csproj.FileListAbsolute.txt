@@ -1,0 +1,15 @@
+C:\Users\ROHINI NAIR\Desktop\DALActivity\Courses\bin\Debug\Courses.dll
+C:\Users\ROHINI NAIR\Desktop\DALActivity\Courses\bin\Debug\Courses.pdb
+C:\Users\ROHINI NAIR\Desktop\DALActivity\Courses\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\ROHINI NAIR\Desktop\DALActivity\Courses\bin\Debug\System.Security.AccessControl.dll
+C:\Users\ROHINI NAIR\Desktop\DALActivity\Courses\bin\Debug\System.Security.Permissions.dll
+C:\Users\ROHINI NAIR\Desktop\DALActivity\Courses\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\ROHINI NAIR\Desktop\DALActivity\Courses\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\ROHINI NAIR\Desktop\DALActivity\Courses\bin\Debug\System.Security.AccessControl.xml
+C:\Users\ROHINI NAIR\Desktop\DALActivity\Courses\bin\Debug\System.Security.Permissions.xml
+C:\Users\ROHINI NAIR\Desktop\DALActivity\Courses\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\ROHINI NAIR\Desktop\DALActivity\Courses\obj\Debug\ActivitiesBL.csproj.AssemblyReference.cache
+C:\Users\ROHINI NAIR\Desktop\DALActivity\Courses\obj\Debug\ActivitiesBL.csproj.CoreCompileInputs.cache
+C:\Users\ROHINI NAIR\Desktop\DALActivity\Courses\obj\Debug\ActivitiesBL.csproj.CopyComplete
+C:\Users\ROHINI NAIR\Desktop\DALActivity\Courses\obj\Debug\Courses.dll
+C:\Users\ROHINI NAIR\Desktop\DALActivity\Courses\obj\Debug\Courses.pdb

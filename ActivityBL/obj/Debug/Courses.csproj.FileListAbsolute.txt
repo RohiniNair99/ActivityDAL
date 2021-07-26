@@ -1,0 +1,15 @@
+C:\Users\Sanya\source\repos\DALActivities\Courses\bin\Debug\Courses.dll
+C:\Users\Sanya\source\repos\DALActivities\Courses\bin\Debug\Courses.pdb
+C:\Users\Sanya\source\repos\DALActivities\Courses\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Sanya\source\repos\DALActivities\Courses\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Sanya\source\repos\DALActivities\Courses\bin\Debug\System.Security.Permissions.dll
+C:\Users\Sanya\source\repos\DALActivities\Courses\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Sanya\source\repos\DALActivities\Courses\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Sanya\source\repos\DALActivities\Courses\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Sanya\source\repos\DALActivities\Courses\bin\Debug\System.Security.Permissions.xml
+C:\Users\Sanya\source\repos\DALActivities\Courses\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Sanya\source\repos\DALActivities\Courses\obj\Debug\Courses.csproj.AssemblyReference.cache
+C:\Users\Sanya\source\repos\DALActivities\Courses\obj\Debug\Courses.csproj.CoreCompileInputs.cache
+C:\Users\Sanya\source\repos\DALActivities\Courses\obj\Debug\Courses.csproj.CopyComplete
+C:\Users\Sanya\source\repos\DALActivities\Courses\obj\Debug\Courses.dll
+C:\Users\Sanya\source\repos\DALActivities\Courses\obj\Debug\Courses.pdb

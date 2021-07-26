@@ -1,0 +1,20 @@
+C:\Users\Sanya\source\repos\DALActivities\Activities\bin\Debug\Activities.exe.config
+C:\Users\Sanya\source\repos\DALActivities\Activities\bin\Debug\Activities.exe
+C:\Users\Sanya\source\repos\DALActivities\Activities\bin\Debug\Activities.pdb
+C:\Users\Sanya\source\repos\DALActivities\Activities\bin\Debug\Courses.dll
+C:\Users\Sanya\source\repos\DALActivities\Activities\bin\Debug\Courses.pdb
+C:\Users\Sanya\source\repos\DALActivities\Activities\obj\Debug\Activities.csproj.AssemblyReference.cache
+C:\Users\Sanya\source\repos\DALActivities\Activities\obj\Debug\Activities.csproj.CoreCompileInputs.cache
+C:\Users\Sanya\source\repos\DALActivities\Activities\obj\Debug\Activities.csproj.CopyComplete
+C:\Users\Sanya\source\repos\DALActivities\Activities\obj\Debug\Activities.exe
+C:\Users\Sanya\source\repos\DALActivities\Activities\obj\Debug\Activities.pdb
+C:\Users\ROHINI NAIR\Desktop\DALActivity\Activities\bin\Debug\Activities.exe.config
+C:\Users\ROHINI NAIR\Desktop\DALActivity\Activities\bin\Debug\Activities.exe
+C:\Users\ROHINI NAIR\Desktop\DALActivity\Activities\bin\Debug\Activities.pdb
+C:\Users\ROHINI NAIR\Desktop\DALActivity\Activities\bin\Debug\Courses.dll
+C:\Users\ROHINI NAIR\Desktop\DALActivity\Activities\bin\Debug\Courses.pdb
+C:\Users\ROHINI NAIR\Desktop\DALActivity\Activities\obj\Debug\Activities.csproj.AssemblyReference.cache
+C:\Users\ROHINI NAIR\Desktop\DALActivity\Activities\obj\Debug\Activities.csproj.CoreCompileInputs.cache
+C:\Users\ROHINI NAIR\Desktop\DALActivity\Activities\obj\Debug\Activities.csproj.CopyComplete
+C:\Users\ROHINI NAIR\Desktop\DALActivity\Activities\obj\Debug\Activities.exe
+C:\Users\ROHINI NAIR\Desktop\DALActivity\Activities\obj\Debug\Activities.pdb
